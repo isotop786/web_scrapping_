@@ -1,8 +1,61 @@
 {
-        "4 Minnies Lane": {
-                "Address": "Rock Springs, WY 82901",
-                "Price": "$196K",
-                "Bed": "3 Beds",
-                "Bath": "2 Full Baths"
-        }
+        "Title": "0 Gateway",
+        "Address": "Rock Springs, WY 82901",
+        "Price": "$725K",
+        "Number of Beds": "4 Beds",
+        "Number of Baths": "4 Full Baths"
+}{
+        "Title": "1003 Winchester Blvd.",
+        "Address": "Rock Springs, WY 82901",
+        "Price": "$452K",
+        "Number of Beds": "5 Beds",
+        "Number of Baths": "3 Full Baths"
+}{
+        "Title": "600 Talladega",
+        "Address": "Rock Springs, WY 82901",
+        "Price": "$396K",
+        "Number of Beds": "4 Beds",
+        "Number of Baths": "3 Full Baths"
+}{
+        "Title": "3239 Spearhead Way",
+        "Address": "Rock Springs, WY 82901",
+        "Price": "$389K",
+        "Number of Beds": "3 Beds",
+        "Number of Baths": "3 Full Baths"
+}{
+        "Title": "522 Emerald Street",
+        "Address": "Rock Springs, WY 82901",
+        "Price": "$254K",
+        "Number of Beds": "4 Beds",
+        "Number of Baths": "2 Full Baths"
+}{
+        "Title": "1302 Veteran's Drive",
+        "Address": "Rock Springs, WY 82901",
+        "Price": "$252K",
+        "Number of Beds": "4 Beds",
+        "Number of Baths": "3 Full Baths"
+}{
+        "Title": "1021 Cypress Cir",
+        "Address": "Rock Springs, WY 82901",
+        "Price": "$210K",
+        "Number of Beds": "3 Beds",
+        "Number of Baths": "2 Full Baths"
+}{
+        "Title": "913 Madison Dr",
+        "Address": "Rock Springs, WY 82901",
+        "Price": "$209K",
+        "Number of Beds": "3 Beds",
+        "Number of Baths": "2 Full Baths"
+}{
+        "Title": "1344 Teton Street",
+        "Address": "Rock Springs, WY 82901",
+        "Price": "$199K",
+        "Number of Beds": "3 Beds",
+        "Number of Baths": "2 Full Baths"
+}{
+        "Title": "4 Minnies Lane",
+        "Address": "Rock Springs, WY 82901",
+        "Price": "$196K",
+        "Number of Beds": "3 Beds",
+        "Number of Baths": "2 Full Baths"
 }
